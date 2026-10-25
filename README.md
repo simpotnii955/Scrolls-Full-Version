@@ -241,4 +241,4 @@ This repository serves as the official landing page for Scrolls. The software is
 **Get the most recent version of Scrolls today!**
 
 ---
-**Last updated:** 2026-10-25 00:38:01 UTC
+**Last updated:** 2026-10-25 05:26:37 UTC
